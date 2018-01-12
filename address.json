@@ -1,0 +1,19 @@
+{
+	"file1": {
+		"firstAddress": "1.txt",
+  		"secondAddress": "/12/15"
+	},
+	"file2": {
+		"firstAddress": "D:/Desktop/2.png",
+  		"secondAddress": "/"
+	},
+	"file3": {
+		"firstAddress": "D:/Desktop/учеба/23.txt",
+  		"secondAddress": "/"
+	},
+
+	"file4": {
+		"firstAddress": "2.txt",
+  		"secondAddress": "/"
+	}
+}
